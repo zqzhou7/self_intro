@@ -28,19 +28,19 @@ My research integrates **ecology, experiments, and mechanistic modelling**, focu
 ## 🌱 Current Research
 
 - How **thermal stress alters the bioturbation process**  
-- Behaviour–sediment feedbacks under temperature variability  
 - Response variability in benthic invertebrates  
-- Experimental + modelling approaches to marine heatwaves  
+- Behaviour–sediment feedbacks under temperature variability  
+- Experimental + statistical modelling approaches to marine heatwaves  
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Collaboration Interests
 
-I’m open to collaborations on:
+I’m open to contributing to projects involving:
 
-- Bioturbation & sediment stability  
 - Thermal physiology & benthic behaviour  
-- Heatwave modelling (lab → mesocosm → process models)  
+- Bioturbation & sediment stability  
+- Heatwave modelling approaches  
 - Environmental variability & ecological resilience  
 
 ---
