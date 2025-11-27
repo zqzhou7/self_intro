@@ -52,7 +52,7 @@ I’m open to collaborations on:
 
 ---
 
-## 🎞️ Behaviour Demo
+## 🎞️ Behaviour Demos
 
 | Cockle bioturbation | Sea urchin metamorphosis |
 |-------|--------|
