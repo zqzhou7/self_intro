@@ -1,3 +1,18 @@
+<p align="center">
+  <!-- Banner image placeholder -->
+  <img src="figures/banner_graphic.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <a href="https://orcid.org/0000-0003-0731-1672">
+    <img src="https://img.shields.io/badge/ORCID-0000--0003--0731--1672-A6CE39?logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Zhengquan-Zhou">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" />
+  </a>
+</p>
+
 - 👋 Hi, I’m @zqzhou7
 
 - 👀 I’m interested in ecological patterns and processes of tidal flats. 
