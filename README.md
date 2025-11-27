@@ -48,7 +48,7 @@ I’m open to contributing to projects involving:
 ## 📫 Contact
 
 - Email: **zhouzhengquan@outlook.com**
-- Find me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengquan-zhou-b6394b223)
+- Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengquan-zhou-b6394b223)
 
 ---
 
