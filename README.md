@@ -13,24 +13,45 @@
   </a>
 </p>
 
-- 👋 Hi, I’m @zqzhou7
+## 👋 About Me
 
-- 👀 I’m interested in ecological patterns and processes of tidal flats. 
-  - the spatio-temporal morphodynamics of tidal flats.
-  - how benthic activities can affect sediment stability
-  
-- 🌱 I’m currently learning the effects of thermal stress on the bioturbation process.
+I study how **environmental variability** shapes **benthic ecosystems** on tidal flats.  
+My research integrates **ecology, experiments, and mechanistic modelling**, focusing on:
 
-- 💞️ I’m looking to collaborate on
-  - bioturbation effects on sediment stability.
-  - thermal stress on benthos activities.
-  - modeling the effects of hwatwaves on bioturbation.
-  
-- 📫 How to reach me 
-  - Email: zhouzhengquan@outlook.com
-  - ResearchGate: https://www.researchgate.net/profile/Zhengquan-Zhou
+- 🔥 Thermal stress & marine heatwaves  
+- ⚙️ Behaviour–sediment coupling under fluctuating environments  
+- 🦪 Bioturbation and sediment stability
+- 🌊 Tidal-flat morphodynamics  
 
-<!---
-zqzhou7/zqzhou7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌱 Current Research
+
+- How **thermal stress alters the bioturbation process**  
+- Behaviour–sediment feedbacks under temperature variability  
+- Response variability in benthic invertebrates  
+- Experimental + modelling approaches to marine heatwaves  
+
+---
+
+## 🎞️ Visual Demos (placeholders)
+
+![crab bioturbation demo](figures/cockle.gif) ![cockle bioturbation demo](figures/crab.gif)
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborations on:
+
+- Bioturbation & sediment stability  
+- Thermal physiology & benthic behaviour  
+- Heatwave modelling (lab → mesocosm → process models)  
+- Environmental variability & ecological resilience  
+
+---
+
+## 📫 Contact
+
+- Email: **zhouzhengquan@outlook.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/zhengquan-zhou-b6394b223)
