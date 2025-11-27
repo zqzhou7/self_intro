@@ -34,12 +34,6 @@ My research integrates **ecology, experiments, and mechanistic modelling**, focu
 
 ---
 
-## 🎞️ Visual Demos (placeholders)
-
-![crab bioturbation demo](figures/cockle.gif) ![cockle bioturbation demo](figures/crab.gif)
-
----
-
 ## 🤝 Collaboration
 
 I’m open to collaborations on:
