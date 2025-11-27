@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner image placeholder -->
-  <img src="figures/banner_graphic.jpg" alt="Banner" width="100%" />
+  <img src="figures/banner_graphic_long.jpg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
