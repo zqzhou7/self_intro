@@ -48,4 +48,4 @@ I’m open to collaborations on:
 ## 📫 Contact
 
 - Email: **zhouzhengquan@outlook.com**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/zhengquan-zhou-b6394b223)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/zhengquan-zhou-b6394b223) 
