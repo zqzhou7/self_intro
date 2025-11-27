@@ -48,4 +48,10 @@ I’m open to collaborations on:
 ## 📫 Contact
 
 - Email: **zhouzhengquan@outlook.com**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengquan-zhou-b6394b223) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengquan-zhou-b6394b223)
+
+## 🎞️ Behaviour Demo (Banner Row)
+
+| Cockle bioturbation | Sea urchin metamorphosis |
+|-------|--------|
+| ![GIF 1](figures/cockle.gif) | ![GIF 2](figures/urchin_metamorphosis.gif) |
