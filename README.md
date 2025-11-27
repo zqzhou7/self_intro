@@ -19,7 +19,7 @@ I study how **environmental variability** shapes **benthic ecosystems** on tidal
 My research integrates **ecology, experiments, and mechanistic modelling**, focusing on:
 
 - 🔥 Thermal stress & marine heatwaves  
-- ⚙️ Behaviour–sediment coupling under fluctuating environments  
+- ⚙️ Behaviour–sediment coupling 
 - 🦪 Bioturbation and sediment stability
 - 🌊 Tidal-flat morphodynamics  
 
